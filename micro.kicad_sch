@@ -2419,10 +2419,10 @@
 		(uuid "4c1a1751-a78b-4fb4-a667-cd1bce8cd880")
 	)
 	(junction
-		(at 240.03 147.32)
+		(at 240.03 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "556a1cd9-c05d-44c4-b467-86cd20bd72d3")
+		(uuid "57bd049a-6d93-4c85-bff1-8906ffd2533b")
 	)
 	(junction
 		(at 190.5 110.49)
@@ -2688,7 +2688,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 143.51) (xy 256.54 143.51)
+			(xy 252.73 138.43) (xy 256.54 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2818,7 +2818,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 147.32) (xy 256.54 147.32)
+			(xy 252.73 144.78) (xy 256.54 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2858,7 +2858,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 147.32) (xy 245.11 147.32)
+			(xy 240.03 144.78) (xy 245.11 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2878,7 +2878,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 151.13) (xy 240.03 147.32)
+			(xy 240.03 144.78) (xy 240.03 151.13)
 		)
 		(stroke
 			(width 0)
@@ -3078,16 +3078,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 147.32) (xy 240.03 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e697c05b-15f2-4a4e-b816-b66b0b2b0c42")
-	)
-	(wire
-		(pts
 			(xy 156.21 57.15) (xy 170.18 57.15)
 		)
 		(stroke
@@ -3118,7 +3108,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 143.51) (xy 245.11 143.51)
+			(xy 240.03 138.43) (xy 245.11 138.43)
 		)
 		(stroke
 			(width 0)
@@ -3136,8 +3126,18 @@
 		)
 		(uuid "f2cb9843-84c7-4e4d-aa7d-775679bcfc07")
 	)
+	(wire
+		(pts
+			(xy 240.03 144.78) (xy 240.03 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6f52016-c45e-4e3c-9001-5319a1e5ec1d")
+	)
 	(label "TMC2"
-		(at 256.54 147.32 0)
+		(at 256.54 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3147,7 +3147,7 @@
 		(uuid "1d361be3-8bee-4858-b143-d9bd34468bfc")
 	)
 	(label "TMC1"
-		(at 256.54 143.51 0)
+		(at 256.54 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3496,7 +3496,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "009d1daa-6c04-44a1-9a83-82bc271a75ff")
-		(property "Reference" "C207"
+		(property "Reference" "C501"
 			(at 91.44 180.3399 0)
 			(effects
 				(font
@@ -3558,7 +3558,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "C207")
+					(reference "C501")
 					(unit 1)
 				)
 			)
@@ -3573,7 +3573,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "02674935-f6df-4091-8087-241b88552c47")
-		(property "Reference" "C204"
+		(property "Reference" "C506"
 			(at 143.51 180.3399 0)
 			(effects
 				(font
@@ -3635,7 +3635,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "C204")
+					(reference "C506")
 					(unit 1)
 				)
 			)
@@ -3650,7 +3650,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "05b34751-8040-4707-a9f0-5191cd241ed2")
-		(property "Reference" "C203"
+		(property "Reference" "C507"
 			(at 156.21 180.3399 0)
 			(effects
 				(font
@@ -3712,7 +3712,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "C203")
+					(reference "C507")
 					(unit 1)
 				)
 			)
@@ -3729,7 +3729,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f7861ac-0a5b-4c68-adef-92bd3d94c761")
-		(property "Reference" "R209"
+		(property "Reference" "R508"
 			(at 180.34 106.68 90)
 			(effects
 				(font
@@ -3745,7 +3745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 180.086 112.014 90)
 			(effects
 				(font
@@ -3781,7 +3781,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R209")
+					(reference "R508")
 					(unit 1)
 				)
 			)
@@ -3797,7 +3797,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20360ddd-fa05-4d9c-bc4e-23b325d69247")
-		(property "Reference" "#PWR0226"
+		(property "Reference" "#PWR0502"
 			(at 87.63 181.61 0)
 			(effects
 				(font
@@ -3847,7 +3847,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0226")
+					(reference "#PWR0502")
 					(unit 1)
 				)
 			)
@@ -3863,7 +3863,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f249559-8b45-40f9-b066-23d8cd1d6366")
-		(property "Reference" "R214"
+		(property "Reference" "R501"
 			(at 85.09 33.0199 0)
 			(effects
 				(font
@@ -3881,7 +3881,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 81.534 34.036 90)
 			(effects
 				(font
@@ -3917,7 +3917,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R214")
+					(reference "R501")
 					(unit 1)
 				)
 			)
@@ -3933,7 +3933,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39d30316-4439-4c9d-a1b0-775a24fff92e")
-		(property "Reference" "#PWR0229"
+		(property "Reference" "#PWR0506"
 			(at 100.33 191.77 0)
 			(effects
 				(font
@@ -3983,7 +3983,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0229")
+					(reference "#PWR0506")
 					(unit 1)
 				)
 			)
@@ -3999,7 +3999,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a6464ae-dcb2-424c-b170-c10cf5060828")
-		(property "Reference" "#PWR0236"
+		(property "Reference" "#PWR0504"
 			(at 92.71 41.91 0)
 			(effects
 				(font
@@ -4049,7 +4049,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0236")
+					(reference "#PWR0504")
 					(unit 1)
 				)
 			)
@@ -4065,7 +4065,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b7f787c-3ad3-4edb-b8b8-e8ea1dd3228b")
-		(property "Reference" "#PWR0234"
+		(property "Reference" "#PWR0507"
 			(at 110.49 33.02 0)
 			(effects
 				(font
@@ -4115,7 +4115,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0234")
+					(reference "#PWR0507")
 					(unit 1)
 				)
 			)
@@ -4130,10 +4130,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3cc4fc64-9e3a-4bde-84b2-491b76c18f43")
-		(property "Reference" "R232"
-			(at 248.92 144.78 90)
+		(property "Reference" "R511"
+			(at 248.92 153.162 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4141,7 +4140,7 @@
 			)
 		)
 		(property "Value" "R_US"
-			(at 248.92 147.32 90)
+			(at 245.872 149.606 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4184,7 +4183,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R232")
+					(reference "R511")
 					(unit 1)
 				)
 			)
@@ -4200,7 +4199,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40894ce2-fec1-408b-bc5f-994491b1f7dc")
-		(property "Reference" "#PWR0219"
+		(property "Reference" "#PWR0515"
 			(at 139.7 191.77 0)
 			(effects
 				(font
@@ -4250,7 +4249,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0219")
+					(reference "#PWR0515")
 					(unit 1)
 				)
 			)
@@ -4265,7 +4264,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4228ac2f-f0f2-4bcd-b631-1592622c4fb0")
-		(property "Reference" "C208"
+		(property "Reference" "C502"
 			(at 104.14 180.3399 0)
 			(effects
 				(font
@@ -4327,7 +4326,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "C208")
+					(reference "C502")
 					(unit 1)
 				)
 			)
@@ -4342,7 +4341,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44eb7e8e-d7cc-4ae1-b952-633574e5644d")
-		(property "Reference" "C205"
+		(property "Reference" "C505"
 			(at 129.54 180.3399 0)
 			(effects
 				(font
@@ -4404,7 +4403,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "C205")
+					(reference "C505")
 					(unit 1)
 				)
 			)
@@ -4420,7 +4419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4743642d-86ef-4827-aea4-d2bbfe6102a0")
-		(property "Reference" "#PWR0217"
+		(property "Reference" "#PWR0517"
 			(at 152.4 191.77 0)
 			(effects
 				(font
@@ -4470,7 +4469,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0217")
+					(reference "#PWR0517")
 					(unit 1)
 				)
 			)
@@ -4478,7 +4477,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 248.92 143.51 270)
+		(at 248.92 138.43 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4487,8 +4486,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d3e187a-a0c9-4c49-94f7-bda8da5463f6")
-		(property "Reference" "R227"
-			(at 248.92 137.16 90)
+		(property "Reference" "R509"
+			(at 248.92 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4496,7 +4495,7 @@
 			)
 		)
 		(property "Value" "R_US"
-			(at 248.92 139.7 90)
+			(at 248.92 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4504,7 +4503,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 248.666 142.494 90)
+			(at 248.666 137.414 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4513,7 +4512,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 248.92 143.51 0)
+			(at 248.92 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4522,7 +4521,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 248.92 143.51 0)
+			(at 248.92 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4539,7 +4538,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R227")
+					(reference "R509")
 					(unit 1)
 				)
 			)
@@ -4555,7 +4554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ae31659-487b-4267-a125-33a11032987c")
-		(property "Reference" "#PWR0220"
+		(property "Reference" "#PWR0510"
 			(at 125.73 181.61 0)
 			(effects
 				(font
@@ -4605,7 +4604,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0220")
+					(reference "#PWR0510")
 					(unit 1)
 				)
 			)
@@ -4621,7 +4620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e144a5d-1ce7-4350-af23-3a28619366c1")
-		(property "Reference" "R207"
+		(property "Reference" "R503"
 			(at 97.79 71.12 90)
 			(effects
 				(font
@@ -4637,7 +4636,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 98.044 76.454 90)
 			(effects
 				(font
@@ -4673,7 +4672,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R207")
+					(reference "R503")
 					(unit 1)
 				)
 			)
@@ -4689,7 +4688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "622f57b4-b39b-4e3b-9ebb-b59e055f8667")
-		(property "Reference" "#PWR0227"
+		(property "Reference" "#PWR0503"
 			(at 87.63 191.77 0)
 			(effects
 				(font
@@ -4739,7 +4738,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0227")
+					(reference "#PWR0503")
 					(unit 1)
 				)
 			)
@@ -4755,7 +4754,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64fe6cad-08d9-4ff3-8ed2-0e2702adfbce")
-		(property "Reference" "#PWR0223"
+		(property "Reference" "#PWR0509"
 			(at 113.03 191.77 0)
 			(effects
 				(font
@@ -4805,7 +4804,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0223")
+					(reference "#PWR0509")
 					(unit 1)
 				)
 			)
@@ -4821,7 +4820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69ec4742-cfd9-4d87-a926-ca4fcd3b5db7")
-		(property "Reference" "#PWR0228"
+		(property "Reference" "#PWR0505"
 			(at 100.33 181.61 0)
 			(effects
 				(font
@@ -4871,7 +4870,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0228")
+					(reference "#PWR0505")
 					(unit 1)
 				)
 			)
@@ -4888,7 +4887,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "736950a1-edf9-46d4-a142-5b5a8d6ea87b")
-		(property "Reference" "R211"
+		(property "Reference" "R506"
 			(at 180.34 43.18 90)
 			(effects
 				(font
@@ -4904,7 +4903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 180.086 48.514 90)
 			(effects
 				(font
@@ -4940,7 +4939,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R211")
+					(reference "R506")
 					(unit 1)
 				)
 			)
@@ -4956,7 +4955,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7996407d-968e-4d53-9585-cf14c4cd9d8c")
-		(property "Reference" "#PWR0218"
+		(property "Reference" "#PWR0514"
 			(at 139.7 181.61 0)
 			(effects
 				(font
@@ -5006,7 +5005,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0218")
+					(reference "#PWR0514")
 					(unit 1)
 				)
 			)
@@ -5022,7 +5021,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8be3903f-913d-4fda-bd7a-fd4978baa6d4")
-		(property "Reference" "U101"
+		(property "Reference" "U501"
 			(at 143.1133 130.81 0)
 			(effects
 				(font
@@ -5263,7 +5262,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "U101")
+					(reference "U501")
 					(unit 1)
 				)
 			)
@@ -5278,7 +5277,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c669664-976b-40ed-8aa8-33e34a3d2971")
-		(property "Reference" "C218"
+		(property "Reference" "C503"
 			(at 104.1401 45.72 0)
 			(effects
 				(font
@@ -5340,7 +5339,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "C218")
+					(reference "C503")
 					(unit 1)
 				)
 			)
@@ -5355,7 +5354,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "998a8ed0-ef6c-4739-b409-df990b8de239")
-		(property "Reference" "C206"
+		(property "Reference" "C504"
 			(at 116.84 180.3399 0)
 			(effects
 				(font
@@ -5417,7 +5416,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "C206")
+					(reference "C504")
 					(unit 1)
 				)
 			)
@@ -5433,7 +5432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a433f724-0ba8-42ba-8342-64f447051c04")
-		(property "Reference" "R226"
+		(property "Reference" "R504"
 			(at 113.03 33.0199 0)
 			(effects
 				(font
@@ -5451,7 +5450,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 109.474 34.036 90)
 			(effects
 				(font
@@ -5487,7 +5486,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R226")
+					(reference "R504")
 					(unit 1)
 				)
 			)
@@ -5503,7 +5502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac5cd9db-fc17-47a8-a5c9-12bd11b12b6e")
-		(property "Reference" "#PWR0224"
+		(property "Reference" "#PWR0513"
 			(at 138.43 143.51 0)
 			(effects
 				(font
@@ -5553,7 +5552,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0224")
+					(reference "#PWR0513")
 					(unit 1)
 				)
 			)
@@ -5569,7 +5568,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bff712e3-7601-4802-8e81-7f77850aa475")
-		(property "Reference" "#PWR0225"
+		(property "Reference" "#PWR0512"
 			(at 133.35 33.02 0)
 			(effects
 				(font
@@ -5619,7 +5618,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0225")
+					(reference "#PWR0512")
 					(unit 1)
 				)
 			)
@@ -5635,7 +5634,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1248dfc-944a-44e5-8402-a60c3f6b29b8")
-		(property "Reference" "#PWR0222"
+		(property "Reference" "#PWR0508"
 			(at 113.03 181.61 0)
 			(effects
 				(font
@@ -5685,7 +5684,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0222")
+					(reference "#PWR0508")
 					(unit 1)
 				)
 			)
@@ -5702,7 +5701,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd215f52-5347-4ec8-ad2d-eb5ddb34e7c7")
-		(property "Reference" "R210"
+		(property "Reference" "R505"
 			(at 180.34 40.64 90)
 			(effects
 				(font
@@ -5718,7 +5717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 180.086 45.974 90)
 			(effects
 				(font
@@ -5754,7 +5753,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R210")
+					(reference "R505")
 					(unit 1)
 				)
 			)
@@ -5770,7 +5769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdc2d907-0de1-4da5-82fd-dd97abf952fa")
-		(property "Reference" "#PWR0216"
+		(property "Reference" "#PWR0516"
 			(at 152.4 181.61 0)
 			(effects
 				(font
@@ -5820,7 +5819,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0216")
+					(reference "#PWR0516")
 					(unit 1)
 				)
 			)
@@ -5836,7 +5835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0464a85-4b53-4bf8-9230-8006b2309920")
-		(property "Reference" "R206"
+		(property "Reference" "R502"
 			(at 97.79 68.58 90)
 			(effects
 				(font
@@ -5852,7 +5851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 98.044 73.914 90)
 			(effects
 				(font
@@ -5888,7 +5887,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R206")
+					(reference "R502")
 					(unit 1)
 				)
 			)
@@ -5904,7 +5903,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e38a5a78-5cb6-4eef-8832-2879d8af6c38")
-		(property "Reference" "#PWR0230"
+		(property "Reference" "#PWR0501"
 			(at 82.55 33.02 0)
 			(effects
 				(font
@@ -5954,7 +5953,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0230")
+					(reference "#PWR0501")
 					(unit 1)
 				)
 			)
@@ -5970,7 +5969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e63e3390-f06e-43ac-b550-9c4fd5fa0c2b")
-		(property "Reference" "#PWR0221"
+		(property "Reference" "#PWR0511"
 			(at 125.73 191.77 0)
 			(effects
 				(font
@@ -6020,7 +6019,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0221")
+					(reference "#PWR0511")
 					(unit 1)
 				)
 			)
@@ -6028,17 +6027,16 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 248.92 147.32 270)
+		(at 248.92 144.78 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f81b8442-d815-4ae4-b020-9dd2e1ee1f80")
-		(property "Reference" "R228"
-			(at 248.92 140.97 90)
+		(property "Reference" "R510"
+			(at 248.92 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6046,7 +6044,7 @@
 			)
 		)
 		(property "Value" "R_US"
-			(at 248.92 143.51 90)
+			(at 249.174 147.828 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6054,7 +6052,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 248.666 146.304 90)
+			(at 248.666 143.764 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6063,7 +6061,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 248.92 147.32 0)
+			(at 248.92 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6072,7 +6070,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 248.92 147.32 0)
+			(at 248.92 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6089,7 +6087,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R228")
+					(reference "R510")
 					(unit 1)
 				)
 			)
@@ -6106,7 +6104,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff4d2a4d-50a2-4b20-89c2-8afa6c5ff0ae")
-		(property "Reference" "R208"
+		(property "Reference" "R507"
 			(at 180.34 104.14 90)
 			(effects
 				(font
@@ -6122,7 +6120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 180.086 109.474 90)
 			(effects
 				(font
@@ -6158,7 +6156,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R208")
+					(reference "R507")
 					(unit 1)
 				)
 			)

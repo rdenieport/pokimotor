@@ -1551,7 +1551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "105c2e48-7524-466a-8124-4469ede19cce")
-		(property "Reference" "#PWR0284"
+		(property "Reference" "#PWR0107"
 			(at 71.12 133.35 0)
 			(effects
 				(font
@@ -1601,7 +1601,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0284")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -1616,7 +1616,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16ac9164-9fd0-4045-9734-6480edc7910f")
-		(property "Reference" "C223"
+		(property "Reference" "C103"
 			(at 62.23 176.5299 0)
 			(effects
 				(font
@@ -1678,7 +1678,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "C223")
+					(reference "C103")
 					(unit 1)
 				)
 			)
@@ -1694,7 +1694,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "192c254e-dcdc-45a1-b548-9b8ea199ee60")
-		(property "Reference" "#PWR0291"
+		(property "Reference" "#PWR0110"
 			(at 97.79 171.45 0)
 			(effects
 				(font
@@ -1744,7 +1744,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0291")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -1759,7 +1759,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1eed77b5-968e-4217-bdb7-818d37a3288a")
-		(property "Reference" "C103"
+		(property "Reference" "C101"
 			(at 49.53 176.5299 0)
 			(effects
 				(font
@@ -1821,7 +1821,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "C103")
+					(reference "C101")
 					(unit 1)
 				)
 			)
@@ -1837,7 +1837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "238dfc70-658d-4178-94d5-a42cbd1674b4")
-		(property "Reference" "#PWR0293"
+		(property "Reference" "#PWR0101"
 			(at 35.56 191.77 0)
 			(effects
 				(font
@@ -1887,7 +1887,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0293")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -1902,7 +1902,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2c4fc867-f3c7-4c6e-b13c-365124b4217f")
-		(property "Reference" "C101"
+		(property "Reference" "C102"
 			(at 62.23 139.6999 0)
 			(effects
 				(font
@@ -1964,7 +1964,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "C101")
+					(reference "C102")
 					(unit 1)
 				)
 			)
@@ -1979,7 +1979,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5264ee78-f301-445a-a320-4675abb20719")
-		(property "Reference" "J101"
+		(property "Reference" "J102"
 			(at 33.02 123.1901 0)
 			(effects
 				(font
@@ -1997,7 +1997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical"
 			(at 35.56 123.19 0)
 			(effects
 				(font
@@ -2033,7 +2033,7 @@
 		(instances
 			(project ""
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "J101")
+					(reference "J102")
 					(unit 1)
 				)
 			)
@@ -2049,7 +2049,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6042ee63-3999-49e2-9b80-ab3085673604")
-		(property "Reference" "#PWR0289"
+		(property "Reference" "#PWR0109"
 			(at 77.47 191.77 0)
 			(effects
 				(font
@@ -2099,7 +2099,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0289")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -2114,7 +2114,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c145639-14d8-471f-8f9f-4e5338eb4d3d")
-		(property "Reference" "#PWR0286"
+		(property "Reference" "#PWR0108"
 			(at 71.12 154.94 0)
 			(effects
 				(font
@@ -2164,7 +2164,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0286")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -2180,7 +2180,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8cebc412-726a-47f5-8b81-97fb9d427739")
-		(property "Reference" "#PWR0416"
+		(property "Reference" "#PWR0105"
 			(at 58.42 171.45 0)
 			(effects
 				(font
@@ -2230,7 +2230,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0416")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -2245,7 +2245,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d8c2ac7-af72-43eb-83cf-d0c0c1dba7bf")
-		(property "Reference" "C102"
+		(property "Reference" "C104"
 			(at 74.93 139.6999 0)
 			(effects
 				(font
@@ -2307,7 +2307,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "C102")
+					(reference "C104")
 					(unit 1)
 				)
 			)
@@ -2322,7 +2322,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b813e2e-dd94-4fc4-8455-11ae9ff7a19a")
-		(property "Reference" "#PWR0287"
+		(property "Reference" "#PWR0103"
 			(at 48.26 154.94 0)
 			(effects
 				(font
@@ -2372,7 +2372,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0287")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -2387,7 +2387,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ebb6a05-e1e8-42b5-817b-9af5346ee55e")
-		(property "Reference" "#PWR0285"
+		(property "Reference" "#PWR0104"
 			(at 58.42 154.94 0)
 			(effects
 				(font
@@ -2437,7 +2437,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0285")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -2453,7 +2453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1da2cbf-36cc-484a-89c4-b33e7c1cc583")
-		(property "Reference" "U403"
+		(property "Reference" "U101"
 			(at 77.47 165.1 0)
 			(effects
 				(font
@@ -2508,7 +2508,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "U403")
+					(reference "U101")
 					(unit 1)
 				)
 			)
@@ -2523,7 +2523,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a28c39fd-3f52-48c2-85c4-0ba813677d87")
-		(property "Reference" "J102"
+		(property "Reference" "J103"
 			(at 33.02 134.6201 0)
 			(effects
 				(font
@@ -2541,7 +2541,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical"
 			(at 35.56 134.62 0)
 			(effects
 				(font
@@ -2577,7 +2577,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "J102")
+					(reference "J103")
 					(unit 1)
 				)
 			)
@@ -2593,7 +2593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5dd3a63-f9f4-4832-b4f5-653e9f4299d9")
-		(property "Reference" "#PWR0288"
+		(property "Reference" "#PWR0106"
 			(at 58.42 191.77 0)
 			(effects
 				(font
@@ -2643,7 +2643,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0288")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -2658,7 +2658,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cf2ddd41-0ee8-446f-8ed4-735fe0472d7a")
-		(property "Reference" "J103"
+		(property "Reference" "J101"
 			(at 24.765 179.07 0)
 			(effects
 				(font
@@ -2710,7 +2710,7 @@
 		(instances
 			(project ""
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "J103")
+					(reference "J101")
 					(unit 1)
 				)
 			)
@@ -2725,7 +2725,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e4e94de4-53a7-4acf-ba92-34d86ff0f047")
-		(property "Reference" "C224"
+		(property "Reference" "C105"
 			(at 101.6 177.7999 0)
 			(effects
 				(font
@@ -2787,7 +2787,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "C224")
+					(reference "C105")
 					(unit 1)
 				)
 			)
@@ -2803,7 +2803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb2e71e9-b715-4814-93bb-374519096df4")
-		(property "Reference" "#PWR0292"
+		(property "Reference" "#PWR0102"
 			(at 45.72 191.77 0)
 			(effects
 				(font
@@ -2853,7 +2853,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0292")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -2869,7 +2869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef407101-85c1-4073-9741-2c629f089c71")
-		(property "Reference" "#PWR0290"
+		(property "Reference" "#PWR0111"
 			(at 97.79 191.77 0)
 			(effects
 				(font
@@ -2919,7 +2919,7 @@
 		(instances
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
-					(reference "#PWR0290")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)

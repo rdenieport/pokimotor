@@ -1,0 +1,5 @@
+Carte_moteur-backups
+*.lck
+*auto_saved_files*
+*.bak
+

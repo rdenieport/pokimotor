@@ -2003,7 +2003,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 102.87) (xy 90.17 102.87)
+			(xy 57.15 102.87) (xy 120.65 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2230,16 +2230,6 @@
 			(type default)
 		)
 		(uuid "b798f6f4-70b8-4635-9266-6c87a55fb20a")
-	)
-	(wire
-		(pts
-			(xy 97.79 102.87) (xy 120.65 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bea41841-1301-42d8-bad3-29cf645327bb")
 	)
 	(wire
 		(pts
@@ -2529,7 +2519,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 13f5653c-a0e4-41a6-ad6e-4d727aee52a9)
+			(uuid 6dfeb1ca-98fa-4c94-8478-05cba67d7482)
 		)
 	)
 	(netclass_flag ""
@@ -4600,82 +4590,6 @@
 				)
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/775cd45e-9174-4367-b4d9-b516ea5d1b35"
 					(reference "#PWR0313")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 93.98 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c5db78ad-f187-4fe9-b95c-299539b410d8")
-		(property "Reference" "R205"
-			(at 93.98 96.52 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_US"
-			(at 93.98 99.06 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 94.234 101.854 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 93.98 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8326b66e-3cc0-44a7-b933-205dbbe08964")
-		)
-		(pin "2"
-			(uuid "32dcd35b-aeb9-4412-9ae7-8515d2b4bdfc")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/3601c837-7861-4e39-9e5f-37bf5bd7778d"
-					(reference "R205")
-					(unit 1)
-				)
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/37d501de-32d1-405a-b67e-90954dd4eb6d"
-					(reference "R405")
-					(unit 1)
-				)
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/775cd45e-9174-4367-b4d9-b516ea5d1b35"
-					(reference "R305")
 					(unit 1)
 				)
 			)

@@ -2530,16 +2530,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 73.66) (xy 53.34 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07986f19-bf0c-4e50-9744-d0318b78706c")
-	)
-	(wire
-		(pts
 			(xy 257.81 68.58) (xy 257.81 74.93)
 		)
 		(stroke
@@ -2650,16 +2640,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 118.11) (xy 44.45 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "211c81a1-807b-4f08-969f-c8055f2cc71c")
-	)
-	(wire
-		(pts
 			(xy 101.6 90.17) (xy 120.65 90.17)
 		)
 		(stroke
@@ -2670,7 +2650,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 160.02) (xy 62.23 160.02)
+			(xy 27.94 160.02) (xy 54.61 160.02)
 		)
 		(stroke
 			(width 0)
@@ -2700,7 +2680,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 118.11) (xy 44.45 118.11)
+			(xy 27.94 118.11) (xy 54.61 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2750,7 +2730,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 152.4) (xy 44.45 152.4)
+			(xy 27.94 152.4) (xy 54.61 152.4)
 		)
 		(stroke
 			(width 0)
@@ -2830,16 +2810,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 90.17) (xy 53.34 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4bd0c3b6-3806-4468-b5e9-67bc749b5d71")
-	)
-	(wire
-		(pts
 			(xy 191.77 128.27) (xy 213.36 128.27)
 		)
 		(stroke
@@ -2850,23 +2820,13 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 90.17) (xy 53.34 90.17)
+			(xy 27.94 90.17) (xy 54.61 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4db338d8-aee4-4ceb-9a54-ed31c64e4993")
-	)
-	(wire
-		(pts
-			(xy 44.45 86.36) (xy 44.45 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e6bf921-582b-4e8e-a7a4-ffc8875c3406")
 	)
 	(wire
 		(pts
@@ -2877,16 +2837,6 @@
 			(type default)
 		)
 		(uuid "507ab007-280d-4af5-ab35-f69de16e1c08")
-	)
-	(wire
-		(pts
-			(xy 53.34 139.7) (xy 53.34 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51ba9336-9701-4089-b886-b29c75d91e07")
 	)
 	(wire
 		(pts
@@ -3010,26 +2960,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 105.41) (xy 62.23 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61c736b1-a9b1-421a-b06c-e05df3b6a03a")
-	)
-	(wire
-		(pts
-			(xy 44.45 73.66) (xy 44.45 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "685f4618-a847-4774-90ff-ff727a2c9510")
-	)
-	(wire
-		(pts
 			(xy 240.03 39.37) (xy 246.38 39.37)
 		)
 		(stroke
@@ -3080,7 +3010,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 86.36) (xy 44.45 86.36)
+			(xy 27.94 86.36) (xy 54.61 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3120,7 +3050,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 156.21) (xy 53.34 156.21)
+			(xy 27.94 156.21) (xy 54.61 156.21)
 		)
 		(stroke
 			(width 0)
@@ -3190,7 +3120,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 125.73) (xy 62.23 125.73)
+			(xy 27.94 125.73) (xy 54.61 125.73)
 		)
 		(stroke
 			(width 0)
@@ -3210,7 +3140,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 121.92) (xy 53.34 121.92)
+			(xy 27.94 121.92) (xy 54.61 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3257,16 +3187,6 @@
 			(type default)
 		)
 		(uuid "9a206a11-7172-41ca-87ef-06d65b069496")
-	)
-	(wire
-		(pts
-			(xy 62.23 93.98) (xy 62.23 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a715e54-ea18-48ba-a775-cf36538725a4")
 	)
 	(wire
 		(pts
@@ -3357,26 +3277,6 @@
 			(type default)
 		)
 		(uuid "aa47dfb9-e2b6-4044-84ac-0a79a8672a0b")
-	)
-	(wire
-		(pts
-			(xy 62.23 114.3) (xy 62.23 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "adb4973f-73fc-47df-a3db-fb9dd8a22652")
-	)
-	(wire
-		(pts
-			(xy 44.45 152.4) (xy 44.45 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1b29bc6-986a-4bf8-b0e9-c1fa4b80b8ff")
 	)
 	(wire
 		(pts
@@ -3520,16 +3420,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 105.41) (xy 44.45 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf3d148d-9193-4e1f-8743-ac2f8c0d08ca")
-	)
-	(wire
-		(pts
 			(xy 143.51 30.48) (xy 143.51 34.29)
 		)
 		(stroke
@@ -3550,16 +3440,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 139.7) (xy 44.45 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6c9d57c-7613-4483-ae31-e0d6840555b4")
-	)
-	(wire
-		(pts
 			(xy 156.21 49.53) (xy 175.26 49.53)
 		)
 		(stroke
@@ -3577,36 +3457,6 @@
 			(type default)
 		)
 		(uuid "d88bcf87-002c-40dd-8efd-3745944d3fe7")
-	)
-	(wire
-		(pts
-			(xy 62.23 160.02) (xy 62.23 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9b1b8c5-c73d-40db-8be0-32e475bf3140")
-	)
-	(wire
-		(pts
-			(xy 62.23 73.66) (xy 62.23 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e39bc275-5569-4681-9923-dc7a0671e51e")
-	)
-	(wire
-		(pts
-			(xy 53.34 105.41) (xy 53.34 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e660457a-1f85-43d1-89a2-39e2f96c18cc")
 	)
 	(wire
 		(pts
@@ -3650,43 +3500,13 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 93.98) (xy 62.23 93.98)
+			(xy 27.94 93.98) (xy 54.61 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f921c3c5-0883-497c-8a4c-26fd0867a4f2")
-	)
-	(wire
-		(pts
-			(xy 62.23 139.7) (xy 62.23 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fae32602-7898-4f3d-b22e-59789040d8d8")
-	)
-	(wire
-		(pts
-			(xy 53.34 156.21) (xy 53.34 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc66cbee-507a-42de-b350-9b7f909024da")
-	)
-	(wire
-		(pts
-			(xy 53.34 121.92) (xy 53.34 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc795f5b-8902-4e56-b0ab-6ec9600aa6ad")
 	)
 	(label "TIM1_ETR"
 		(at 175.26 72.39 180)
@@ -3789,12 +3609,12 @@
 		(uuid "28ab45bb-e825-469c-8d03-8aaab68d55e4")
 	)
 	(label "TIM3_CH1"
-		(at 31.75 118.11 0)
+		(at 54.61 118.11 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "388f3101-1e7d-4f77-a3de-e67d0efbc064")
 	)
@@ -3809,12 +3629,12 @@
 		(uuid "39e270d3-962a-4ee7-bcc6-d0065eb5704c")
 	)
 	(label "TIM3_ETR"
-		(at 31.75 125.73 0)
+		(at 54.61 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "3ed33a54-ce17-4cb0-81dc-6de1590bbeb3")
 	)
@@ -3859,22 +3679,22 @@
 		(uuid "586d6ede-fc8c-4aea-87a2-99879d8185ea")
 	)
 	(label "TIM5_CH1"
-		(at 31.75 152.4 0)
+		(at 54.61 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "6880e966-f0fe-4e9c-bcac-4f6ccd8a960d")
 	)
 	(label "TIM1_ETR"
-		(at 31.75 93.98 0)
+		(at 54.61 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "6a3b0c70-4ee8-4678-8e5b-3676815923e5")
 	)
@@ -3899,12 +3719,12 @@
 		(uuid "7b06f66e-a52a-405d-afc1-76cb64ad8b7f")
 	)
 	(label "TIM1_CH2"
-		(at 31.75 90.17 0)
+		(at 54.61 90.17 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7ec2daa4-5bef-4808-ba33-f77ffa118930")
 	)
@@ -4069,12 +3889,12 @@
 		(uuid "b79a4033-0259-4be3-b32f-4859a2af18a0")
 	)
 	(label "TIM1_CH1"
-		(at 31.75 86.36 0)
+		(at 54.61 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "bb49ed0e-ec37-4663-9939-5c1ceea99379")
 	)
@@ -4189,12 +4009,12 @@
 		(uuid "ea7e85e3-9eda-4671-b96b-fb2796533291")
 	)
 	(label "TIM3_CH2"
-		(at 31.75 121.92 0)
+		(at 54.61 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "eceb79d0-5b4b-48de-ad7e-13ef0a2cc11a")
 	)
@@ -4249,12 +4069,12 @@
 		(uuid "f8834446-3738-4d02-a284-2ba763136df1")
 	)
 	(label "TIM5_CH2"
-		(at 31.75 156.21 0)
+		(at 54.61 156.21 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "f9600abf-c0cf-40f2-a59a-039db1c7e03c")
 	)
@@ -4269,12 +4089,12 @@
 		(uuid "fc274418-e4cf-4b76-8d89-c65995dc99ae")
 	)
 	(label "TIM5_ETR"
-		(at 31.75 160.02 0)
+		(at 54.61 160.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "fd2bb7f1-9de2-4c92-9cb6-1c3126528718")
 	)
@@ -4763,72 +4583,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 53.34 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0881dd87-d7ff-446e-927c-5bed728b682a")
-		(property "Reference" "#PWR0506"
-			(at 53.34 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 53.34 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 53.34 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "844bb4b7-a76f-4236-8fb9-9e5111706b5c")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0506")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 142.24 177.8 0)
 		(unit 1)
@@ -5265,76 +5019,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 53.34 144.78 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "399e2493-64fb-4e43-a183-d3d7f80beba3")
-		(property "Reference" "R506"
-			(at 55.88 143.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_US"
-			(at 55.88 146.0499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 52.324 144.526 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 53.34 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "74e86134-5a50-47e9-b542-107e745c372d")
-		)
-		(pin "2"
-			(uuid "740f1880-6582-421b-add2-71f25daa7292")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R506")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 102.87 181.61 0)
 		(unit 1)
@@ -5666,142 +5350,6 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 62.23 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4ebb96ae-05cd-4414-8bcc-41975f7cce00")
-		(property "Reference" "#PWR0509"
-			(at 62.23 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 62.23 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 62.23 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "63cea37f-2774-46e4-884d-e22340cdc06c")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0509")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 53.34 110.49 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "514d35a8-d90f-4def-9ffd-9e9b4b2a1b48")
-		(property "Reference" "R505"
-			(at 55.88 109.2199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_US"
-			(at 55.88 111.7599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 52.324 110.236 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 53.34 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8d9790e5-ae43-47ac-88b7-d29327a3c823")
-		)
-		(pin "2"
-			(uuid "1e6e307b-7080-4e2b-b9e9-7b731d1a775d")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R505")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
 		(at 128.27 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6062,72 +5610,6 @@
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
 					(reference "#PWR0518")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 44.45 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "667ee3a5-4efb-4f4c-a35e-2ce7059f50b2")
-		(property "Reference" "#PWR0503"
-			(at 44.45 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 44.45 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 44.45 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 44.45 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 44.45 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "83c5e545-a9c9-44d7-ad93-41d521e142bd")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0503")
 					(unit 1)
 				)
 			)
@@ -6400,72 +5882,6 @@
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
 					(reference "R518")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 53.34 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8b811f37-25b6-4b22-bd59-8b13749371fc")
-		(property "Reference" "#PWR0505"
-			(at 53.34 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 53.34 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 53.34 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3c6dccae-26e7-4652-972c-20ea822845dc")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0505")
 					(unit 1)
 				)
 			)
@@ -6806,72 +6222,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 44.45 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8f884c89-26ee-456e-b9bf-8d3900ed49c5")
-		(property "Reference" "#PWR0502"
-			(at 44.45 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 44.45 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 44.45 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 44.45 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 44.45 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1e75b2be-ca23-4f39-be51-1bd9f4caa4d7")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0502")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 257.81 64.77 0)
 		(mirror y)
@@ -7090,142 +6440,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 53.34 78.74 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aa9e6d9c-29c0-4183-951f-bd135e46dc06")
-		(property "Reference" "R504"
-			(at 55.88 77.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_US"
-			(at 55.88 80.0099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 52.324 78.486 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 53.34 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ed41fcfe-4ef7-4936-acb7-91809c44cafd")
-		)
-		(pin "2"
-			(uuid "2bb8ee24-8e19-468b-b834-0a73bb546d4f")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R504")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 53.34 73.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aafcbad9-6349-4d78-a5a8-8ddb8f9b28fb")
-		(property "Reference" "#PWR0504"
-			(at 53.34 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 53.34 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 53.34 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cc0f2870-1bc2-408d-bc0e-312c9c5e7597")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0504")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 138.43 137.16 0)
 		(unit 1)
@@ -7286,146 +6500,6 @@
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
 					(reference "#PWR0522")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 62.23 110.49 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b48768d7-1dc5-4add-ba1e-0e8025e8cba7")
-		(property "Reference" "R508"
-			(at 64.77 109.2199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_US"
-			(at 64.77 111.7599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 61.214 110.236 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 62.23 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d44237e-7934-40a2-821a-5342bce24dfd")
-		)
-		(pin "2"
-			(uuid "a72c46b4-775a-4902-b7f0-4ca0d6feef10")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R508")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 62.23 144.78 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bcb0d12d-939e-4306-87d0-695c8df3ad30")
-		(property "Reference" "R509"
-			(at 64.77 143.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_US"
-			(at 64.77 146.0499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 61.214 144.526 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 62.23 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0015d6b1-bc18-4343-b58f-b2a9424cc420")
-		)
-		(pin "2"
-			(uuid "cdf15d02-8de4-471d-8055-9c9f2f5dac93")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R509")
 					(unit 1)
 				)
 			)
@@ -7700,76 +6774,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 44.45 144.78 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ce88e15f-d1d0-4bc1-8c39-af56fd3778f7")
-		(property "Reference" "R503"
-			(at 46.99 143.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_US"
-			(at 46.99 146.0499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 43.434 144.526 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 44.45 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 44.45 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6097252a-fe65-40d1-88fe-363d2bfcbdc7")
-		)
-		(pin "2"
-			(uuid "b00d2b56-e50c-4da0-8b86-350f512c0335")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R503")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
 		(at 236.22 52.07 270)
 		(mirror x)
 		(unit 1)
@@ -7832,212 +6836,6 @@
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
 					(reference "R514")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 62.23 78.74 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d0b923f8-2025-49b7-9b32-6d053610e197")
-		(property "Reference" "R507"
-			(at 64.77 77.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_US"
-			(at 64.77 80.0099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 61.214 78.486 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 62.23 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8acae7d1-2a64-49cf-9e59-c3e4dd61b906")
-		)
-		(pin "2"
-			(uuid "259664f1-cf7c-4bab-89b4-b6729d75c518")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R507")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 44.45 110.49 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d5c15638-96f8-4872-a90b-97fc01e0852f")
-		(property "Reference" "R502"
-			(at 46.99 109.2199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_US"
-			(at 46.99 111.7599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 43.434 110.236 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 44.45 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 44.45 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2a026f3b-e586-444f-963c-252793a6397e")
-		)
-		(pin "2"
-			(uuid "c829dd36-cb2d-4c6e-93fe-5481aea3a030")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R502")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 62.23 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e27446d9-15ff-467a-a786-eb9c09547b46")
-		(property "Reference" "#PWR0508"
-			(at 62.23 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 62.23 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 62.23 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "036b1d0d-61a4-40cd-aae6-e088184effac")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0508")
 					(unit 1)
 				)
 			)
@@ -8170,208 +6968,6 @@
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
 					(reference "#PWR0520")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 44.45 78.74 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ea43932b-8cec-48a8-9be0-8142a1019945")
-		(property "Reference" "R501"
-			(at 46.99 77.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_US"
-			(at 46.99 80.0099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 43.434 78.486 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 44.45 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 44.45 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "33752d90-e4f2-40fb-8aaa-506cd6fee65c")
-		)
-		(pin "2"
-			(uuid "f2822d5c-a38e-41bb-a24f-62c917018bc0")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "R501")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 62.23 73.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eee5041c-c74e-400c-8d78-5eb2c11884f0")
-		(property "Reference" "#PWR0507"
-			(at 62.23 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 62.23 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 62.23 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0f76bead-e7e5-4769-88b2-94e21de076ba")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0507")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 44.45 73.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fd63bed2-5816-432d-8680-98e8daa9653c")
-		(property "Reference" "#PWR0501"
-			(at 44.45 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 44.45 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 44.45 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 44.45 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 44.45 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f263104d-c896-46e6-b2d0-bac18e210950")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/28bdad79-5371-4e22-98e6-66bca5f68bc6"
-					(reference "#PWR0501")
 					(unit 1)
 				)
 			)

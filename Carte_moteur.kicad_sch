@@ -1526,6 +1526,18 @@
 		)
 	)
 	(junction
+		(at 116.84 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12a80d8f-9f7b-4122-b148-e6c6994164a4")
+	)
+	(junction
+		(at 45.72 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a73cdbd-1805-44f0-a485-429696b7408e")
+	)
+	(junction
 		(at 134.62 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1683,6 +1695,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 55.88) (xy 116.84 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ddc9a39-231d-4273-8a38-edd055da5a10")
+	)
+	(wire
+		(pts
 			(xy 76.2 39.37) (xy 63.5 39.37)
 		)
 		(stroke
@@ -1700,6 +1722,16 @@
 			(type default)
 		)
 		(uuid "34fa204b-b034-418e-b08f-ff233baebb5e")
+	)
+	(wire
+		(pts
+			(xy 109.22 38.1) (xy 139.7 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35f2862e-31d5-47d1-9d92-b3190f74fb5f")
 	)
 	(wire
 		(pts
@@ -1740,6 +1772,16 @@
 			(type default)
 		)
 		(uuid "3e1165c1-2994-4e18-bae0-c904705d29b6")
+	)
+	(wire
+		(pts
+			(xy 55.88 156.21) (xy 55.88 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4853b716-3824-4ee5-9ab2-ad37895c9229")
 	)
 	(wire
 		(pts
@@ -1800,6 +1842,26 @@
 			(type default)
 		)
 		(uuid "56be5064-5622-4c6e-beb6-9c01b47c5c0f")
+	)
+	(wire
+		(pts
+			(xy 39.37 156.21) (xy 55.88 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "583f3a77-42a5-43eb-80e7-13b5ac800e8e")
+	)
+	(wire
+		(pts
+			(xy 109.22 35.56) (xy 116.84 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63573c2d-8afc-4421-9669-0f551fb3cc32")
 	)
 	(wire
 		(pts
@@ -1880,6 +1942,16 @@
 			(type default)
 		)
 		(uuid "6e363610-e09e-4224-80ee-748c503248d7")
+	)
+	(wire
+		(pts
+			(xy 45.72 158.75) (xy 45.72 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e5b7c74-352e-4b95-9399-ef0887bd5688")
 	)
 	(wire
 		(pts
@@ -2083,6 +2155,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 43.18) (xy 109.22 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "963df469-357e-412a-8bbd-1ed9e5de8f76")
+	)
+	(wire
+		(pts
 			(xy 172.72 45.72) (xy 212.09 45.72)
 		)
 		(stroke
@@ -2100,6 +2182,16 @@
 			(type default)
 		)
 		(uuid "9bd80ba3-f338-4175-9252-6dcc7630eeaa")
+	)
+	(wire
+		(pts
+			(xy 39.37 158.75) (xy 45.72 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a193282d-49fe-4a27-ab7d-297fc71b6d78")
 	)
 	(wire
 		(pts
@@ -2170,6 +2262,26 @@
 			(type default)
 		)
 		(uuid "b66945f3-f3e2-4e33-accc-f7b944421a17")
+	)
+	(wire
+		(pts
+			(xy 109.22 40.64) (xy 139.7 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb6f982a-a98e-4e5d-9b60-8764be7db268")
+	)
+	(wire
+		(pts
+			(xy 116.84 35.56) (xy 116.84 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bba48202-03a6-4053-976e-d51e8f78533e")
 	)
 	(wire
 		(pts
@@ -2253,6 +2365,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 45.72) (xy 139.7 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccdc6fbb-e88a-4885-808e-64d93deca464")
+	)
+	(wire
+		(pts
 			(xy 172.72 50.8) (xy 212.09 50.8)
 		)
 		(stroke
@@ -2260,6 +2382,16 @@
 			(type default)
 		)
 		(uuid "d2a25c1f-e4b8-4856-8c87-93a23e7276f9")
+	)
+	(wire
+		(pts
+			(xy 109.22 50.8) (xy 139.7 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d30e4cc6-3b59-424e-b182-7136931c5c51")
 	)
 	(wire
 		(pts
@@ -2290,6 +2422,16 @@
 			(type default)
 		)
 		(uuid "dc8be419-ce9e-4645-a6d5-6549fed54507")
+	)
+	(wire
+		(pts
+			(xy 109.22 48.26) (xy 139.7 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcff2be1-a2cd-4039-a814-fa3451cfb8c5")
 	)
 	(wire
 		(pts
@@ -3148,6 +3290,223 @@
 			(project "Carte_moteur"
 				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
 					(reference "R104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 34.29 158.75 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "644b0d03-e7fa-4a39-b3d7-c5dc9c69d3f5")
+		(property "Reference" "J105"
+			(at 34.925 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Socket"
+			(at 34.925 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical"
+			(at 34.29 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 34.29 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 34.29 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "204c80e4-3787-4bac-b8c0-0268af717a5a")
+		)
+		(pin "2"
+			(uuid "a072eb19-8325-414a-bf57-16bb9c6f2e7d")
+		)
+		(instances
+			(project "Carte_moteur"
+				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
+					(reference "J105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 116.84 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7239f7fe-af97-4824-98c3-42d06dc9b203")
+		(property "Reference" "#PWR0114"
+			(at 116.84 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 116.84 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c322516b-f91a-401b-b9c5-bf77a8661135")
+		)
+		(instances
+			(project "Carte_moteur"
+				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
+					(reference "#PWR0114")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x07")
+		(at 104.14 43.18 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "861485c5-83d8-4735-804a-a246ed019490")
+		(property "Reference" "J106"
+			(at 104.14 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x07"
+			(at 104.14 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-07A_1x07_P2.54mm_Vertical"
+			(at 104.14 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 104.14 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 104.14 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e18b15c7-6302-4929-8ade-dd60ff7243a4")
+		)
+		(pin "3"
+			(uuid "7b827973-ac40-4e8c-bb5b-d46852100c1a")
+		)
+		(pin "5"
+			(uuid "7736fc03-5b62-4abd-bb3b-777c9a1d6990")
+		)
+		(pin "4"
+			(uuid "b96dc64e-ff9a-4e13-9b35-fc154ce6ac9d")
+		)
+		(pin "6"
+			(uuid "a2572390-7c95-4838-bab3-79214b6ff98d")
+		)
+		(pin "7"
+			(uuid "365f9553-2b58-4dda-a235-bd9f784c6ab5")
+		)
+		(pin "1"
+			(uuid "bf42397d-7d24-4e95-834e-5457c4bae2f7")
+		)
+		(instances
+			(project "Carte_moteur"
+				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c"
+					(reference "J106")
 					(unit 1)
 				)
 			)
@@ -4482,7 +4841,7 @@
 			)
 		)
 		(pin "UART4_RX" input
-			(at 139.7 31.75 180)
+			(at 139.7 38.1 180)
 			(uuid "3810816c-5d48-4613-9d11-59dc989be725")
 			(effects
 				(font
@@ -4492,7 +4851,7 @@
 			)
 		)
 		(pin "UART4_TX" output
-			(at 139.7 34.29 180)
+			(at 139.7 40.64 180)
 			(uuid "9072b042-b0b4-42a1-8220-d34b66d5f100")
 			(effects
 				(font
